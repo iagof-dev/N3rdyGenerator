@@ -1,0 +1,34 @@
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.exe.config
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.exe
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.pdb
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.xml
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbprojAssemblyReference.cache
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Resources.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbproj.GenerateResource.cache
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbproj.CoreCompileInputs.cache
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.exe
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.xml
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.pdb
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Login.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Loader.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Foant.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.menug.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.home.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.MinecraftG.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.exe.config
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.exe
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbprojAssemblyReference.cache
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Foant.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.home.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Loader.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Login.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.menug.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.MinecraftG.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.Resources.resources
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbproj.GenerateResource.cache
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.vbproj.CoreCompileInputs.cache
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.exe
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.xml
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\obj\Debug\N3rdyGen.pdb
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.pdb
+F:\Backups\17-07-2020\Projeto Vb\N3rdyGen\N3rdyGen\bin\Debug\N3rdyGen.xml

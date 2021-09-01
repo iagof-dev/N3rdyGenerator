@@ -1,0 +1,16 @@
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\x86\Debug\N3rdyGen.exe.config
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\x86\Debug\N3rdyGen.exe
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\x86\Debug\N3rdyGen.pdb
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\bin\x86\Debug\N3rdyGen.xml
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.Foant.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.home.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.Loader.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.Login.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.menug.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.MinecraftG.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.Resources.resources
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.vbproj.GenerateResource.cache
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.vbproj.CoreCompileInputs.cache
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.exe
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.xml
+C:\Users\N3rdyDzn\source\repos\N3rdyGen\N3rdyGen\obj\x86\Debug\N3rdyGen.pdb
