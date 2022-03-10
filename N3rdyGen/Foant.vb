@@ -16,14 +16,14 @@ Public Class Foant
         Me.TransparencyKey = Color.LightBlue
         Me.BackColor = Color.LightBlue
         Threading.Thread.Sleep(1500)
-        If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", "Doctor Glitch (TrueType)", Nothing) Is Nothing Then
-            MsgBox("Uma fonte necessaria não foi encontrada! Instale-a clicando em ""Instalar""")
-            Fonte()
-            Me.Close()
-        Else
-            Loader.Show()
+        'If My.Computer.Registry.GetValue("HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts", "Doctor Glitch (TrueType)", Nothing) Is Nothing Then
+        'MsgBox("Uma fonte necessaria não foi encontrada! Instale-a clicando em ""Instalar""")
+        'Fonte()
+        'Me.Close()
+        'Else
+        Loader.Show()
             Me.Hide()
-        End If
+        'End If
 
 
     End Sub
